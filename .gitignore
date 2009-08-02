@@ -8,3 +8,6 @@ warning.out
 *.png
 pov.out
 pov.err
+TMP.*
+*.o
+mkplanets
