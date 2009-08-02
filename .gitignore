@@ -1,0 +1,10 @@
+*~
+?
+debug.out
+fatal.out
+render.out
+stats.out
+warning.out
+*.png
+pov.out
+pov.err
