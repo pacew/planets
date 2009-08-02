@@ -5,3 +5,7 @@ planets.png: planets.pov pov.ini Makefile
 	@cat fatal.out warning.out
 	@test ! -s fatal.out -a ! -s warning.out
 
+clean:
+	rm -f *~ *.out pov.err planets.png
+
+
